@@ -1,0 +1,15 @@
+g++ 00.cpp -o 00 && "/home/aman/Desktop/arjun/cpp/"00
+g++ 01inputFromUser.cpp -o 01inputFromUser && "/home/aman/Desktop/arjun/cpp/"01inputFromUser
+g++ 02strings.cpp -o 02strings && "/home/aman/Desktop/arjun/cpp/"02strings
+g++ 03.cpp -o 03 && "/home/aman/Desktop/arjun/cpp/"03
+g++ 04loops.cpp -o 04loops && "/home/aman/Desktop/arjun/cpp/"04loops
+g++ 05classes.cpp -o 05classes && "/home/aman/Desktop/arjun/cpp/"05classes
+g++ 06area.cpp -o 06area && "/home/aman/Desktop/arjun/cpp/"06area
+g++ 07Sum2D.cpp -o 07Sum2D && "/home/aman/Desktop/arjun/cpp/"07Sum2D
+g++ 08string.cpp -o 08string && "/home/aman/Desktop/arjun/cpp/"08string
+g++ 09sumDiagonal.cpp -o 09sumDiagonal && "/home/aman/Desktop/arjun/cpp/"09sumDiagonal
+g++ 10protected.cpp -o 10protected && "/home/aman/Desktop/arjun/cpp/"10protected
+g++ 11friendFunc.cpp -o 11friendFunc && "/home/aman/Desktop/arjun/cpp/"11friendFunc
+
+
+
