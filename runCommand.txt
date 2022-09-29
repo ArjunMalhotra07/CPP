@@ -12,4 +12,9 @@ g++ 10protected.cpp -o 10protected && "/home/aman/Desktop/arjun/cpp/"10protected
 g++ 11friendFunc.cpp -o 11friendFunc && "/home/aman/Desktop/arjun/cpp/"11friendFunc
 
 
+g++ testFile.cpp -o testFile && "/home/aman/Desktop/arjun_malhotra/cpp_Projects/CPP/inheritance/"testFile
+g++ 01multilevel.cpp -o 01multilevel && "/home/aman/Desktop/arjun_malhotra/cpp_Projects/CPP/inheritance/"01multilevel
+g++ 02Multiple.cpp -o 02Multiple && "/home/aman/Desktop/arjun_malhotra/cpp_Projects/CPP/inheritance/"02Multiple
+
+
 
