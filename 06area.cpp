@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class area{
+class Area{
     private:
         int length;
         int breadth;
@@ -28,7 +28,7 @@ int main(){
     int breadth;
     cin >> breadth;
 
-    area obj;
+    Area obj;
     obj.areaOfRect(length,breadth);
     int area = obj.getArea();
     cout << "Area "<< area <<"\n";
