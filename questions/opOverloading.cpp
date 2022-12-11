@@ -44,15 +44,15 @@ public:
     }
 };
 void callbacks2(){
-    AddString1 a1, a2; 
+    AddString1 a1; 
 	a1.setName("Arjun ");
-    a2.setName("M "); 
-    AddString1 a3 = a1 < a2 ;
+    // a2.setName("M "); 
+    AddString1 a3 = a1;
     a3.print();
 }
 
 int main()
 {   
-    callbacks2();
+    callbacks1();
 	
 }

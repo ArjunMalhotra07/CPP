@@ -6,11 +6,6 @@ class Complex{
 
     public:
 
-        void setNumber(int a, int b){
-            real = a;
-            img = b;
-        }
-
         void print(){
             cout << "Number is -- " << real << " + "<< img <<"i\n";
         }
@@ -21,8 +16,9 @@ class Complex{
             img = obj.img;
             
         }
-        Complex(){
-            
+        Complex(int a, int b){
+            real = a;
+            img = b;
         }
 
     
@@ -30,9 +26,8 @@ class Complex{
 
 
 int main(){
-    Complex c1;
 
-    c1.setNumber(15, 10);
+    Complex c1(15, 10);
     Complex c2(c1);
 
     c2.print();
